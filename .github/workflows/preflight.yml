@@ -25,7 +25,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: DeltaX-Public/deltax-preflight
-          ref: 72a84b755aa7d9b16e8255efd41ce7702acb1296
+          ref: 332614eeaf0813edbaa90eb77fa950f464d70e5c
           path: preflight-tool
           persist-credentials: false
       - uses: actions/setup-node@v4

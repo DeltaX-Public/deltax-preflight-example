@@ -7,3 +7,5 @@ The workflow reads `.preflight/policy.json` and `.preflight/manifest.json` from 
 This is a bounded example of an owner-reviewed action menu. The manifest asserts facts about its listed payloads; it does not verify arbitrary external facts or authorize execution.
 
 The positive pull request changes this description while keeping the reviewed proposal intact.
+
+The workflow pins the commit published as the [v0.1.0 public preview](https://github.com/DeltaX-Public/deltax-preflight/releases/tag/v0.1.0).
