@@ -9,3 +9,5 @@ This is a bounded example of an owner-reviewed action menu. The manifest asserts
 The positive pull request changes this description while keeping the reviewed proposal intact.
 
 The workflow pins the commit published as the [v0.1.0 public preview](https://github.com/DeltaX-Public/deltax-preflight/releases/tag/v0.1.0).
+
+The final smoke pull request verifies this published commit while leaving the reviewed proposal intact.
